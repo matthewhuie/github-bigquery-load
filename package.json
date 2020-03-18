@@ -1,0 +1,15 @@
+{
+  "name": "github-bigquery-load",
+  "version": "0.0.1",
+  "main": "app.coffee",
+  "repository": "github:matthewhuie/github-bigquery-load",
+  "scripts": {
+    "start": "coffee app.coffee"
+  },
+  "author": "Matthew Huie <matthew@matthewhuie.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/rest": "^17.1.0",
+    "coffeescript": "^2.5.1"
+  }
+}
